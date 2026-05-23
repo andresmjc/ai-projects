@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+.env
+# VSCode
+.vscode/
+# macOS
+.DS_Store
+# Logs and outputs
+logs/
+*.log
+# System
+Thumbs.db
+
+# Add project-specific ignored files below
